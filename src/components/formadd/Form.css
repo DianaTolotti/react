@@ -1,0 +1,114 @@
+.Form {
+    flex-direction: column;
+    background-color: #FFFFFF;
+    padding: 30px;
+}
+
+.Form-Field {
+    border: 1px solid #dcdcdc;
+    border-radius: 3px;
+    color: #3C3C3C;
+    font-size: 1.2rem;
+    padding: .5rem 1rem;
+    transition: all .2s linear;
+}
+
+.Form-Label {
+    color: #020202;
+    font-size: 1.2rem;
+    align-items: center;
+}
+
+
+.Form-Field:focus {
+    box-shadow: 0 0 7px rgba(255, 255, 255, .9);
+    border-color: #3c3c3c;
+    outline: none;
+}
+
+.Form-Btn {
+    background: #002233;
+    border: none;
+    border-radius: 3px;
+    color: #fdfdfd;
+    margin-top: 1rem;
+    padding: .5rem;
+    transition: background .2s linear;
+}
+
+.Form-Btn:focus {
+    outline: none;
+}
+
+.Form-Btn:hover {
+    background: #00111a;
+    cursor: pointer;
+}
+
+.Form-Group {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1rem;
+    width: 100%;
+}
+
+.Form-Error {
+    color: #ffb3b3;
+    padding: .25rem 0;
+}
+
+
+.divButtonRight{
+    text-align: right;
+    align-items: center;
+}
+
+
+.divButtonsScreenAdd{
+    display: block;
+    align-items: center;
+    text-align: center;
+}
+
+.divButtonCancel{
+    float: left;
+}
+
+.divButtonsScreenNew{
+    float: right;
+}
+
+.buttonCancel {
+    background-color: #989898;
+    border: none;
+    color: #000000;
+    padding: 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 8px 0px;
+    cursor: pointer;
+    font-weight: bold;
+    border-radius: 5px;
+    width: 80px;
+  }
+
+ a:visited {
+    color: #000000;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+a:hover {
+  color: #000000;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+a:active {
+  color: #000000;
+  text-decoration: none;
+  border-radius: 5px;
+}
+

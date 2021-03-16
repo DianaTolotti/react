@@ -1,0 +1,78 @@
+{
+  "leads": [
+    {
+      "id": 1,
+      "nameLead": "João da Silva Siqueira",
+      "mail": "joaosiqueira@gmail.com",
+      "cpf": "05537357054",
+      "spousename": "Silvana Sporh",
+      "civilstatus": "2"
+    },
+    {
+      "id": 2,
+      "nameLead": "Márcio dos Santos",
+      "mail": "marciosantos@gmail.com",
+      "cpf": "30356473058",
+      "civilstatus": "1",
+      "spousename": ""
+    },
+    {
+      "nameLead": "Ana",
+      "mail": "ana_tolotti@hotmail.com",
+      "cpf": "08562720941",
+      "spousename": "",
+      "civilstatus": "1",
+      "id": 3
+    },
+    {
+      "nameLead": "Luiz",
+      "mail": "luiz@hotmail.com",
+      "cpf": "31263546854",
+      "spousename": "",
+      "civilstatus": "1",
+      "id": 5
+    },
+    {
+      "nameLead": "Amabile",
+      "mail": "amabile@hotmail.com",
+      "cpf": "87646546541",
+      "spousename": "",
+      "civilstatus": "3",
+      "id": 8
+    },
+    {
+      "nameLead": "Maila",
+      "mail": "luiz@hotmail.com",
+      "cpf": "54964321321",
+      "spousename": "",
+      "civilstatus": "3",
+      "id": 10
+    },
+    {
+      "nameLead": "Antonio Carlos",
+      "mail": "antonio@hotmail.com",
+      "cpf": "15649842313",
+      "civilstatus": "4",
+      "spousename": "",
+      "id": 11
+    }
+  ],
+  "estados": [
+    {
+      "id": 1,
+      "estado": "Solteiro(a)"
+    },
+    {
+      "id": 2,
+      "estado": "Casado(a)"
+    },
+    {
+      "id": 3,
+      "estado": "Viúvo(a)"
+    },
+    {
+      "id": 4,
+      "estado": "Separado(a)"
+    }
+  ]
+}

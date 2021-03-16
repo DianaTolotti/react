@@ -1,0 +1,39 @@
+.buttonOrange {
+    background-color: #F79028;
+    border: none;
+    color: #000000;
+    padding: 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 8px 0px;
+    cursor: pointer;
+    font-weight: bold;
+    border-radius: 5px;
+    width: auto;
+  }
+
+ a:visited {
+    color: #000000;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+a:hover {
+  color: #000000;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+a:active {
+  color: #000000;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+  .divButtonOrange{
+    width: 300px;
+    background-color: #224D74;
+    text-decoration: none;
+  }

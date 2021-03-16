@@ -1,0 +1,12 @@
+.app-header {
+    align-items: center;
+    display: flex;
+    padding: 0 2rem;
+    height: auto;
+}
+
+.app-header__logo {
+    height: 45px;
+    width: 170PX;
+    margin: 0;
+}

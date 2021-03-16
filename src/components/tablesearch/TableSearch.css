@@ -1,0 +1,38 @@
+.rowTittle {
+  font-family: sans-serif;
+  background: #224D74;
+  color: #FFFFFF;
+  font-size: 16px;
+}  
+  
+  @keyframes App-logo-spin {
+    from {
+      transform: rotate(0deg);
+    }
+    to {
+      transform: rotate(360deg);
+    }
+  }
+  
+  a:link {
+    color: #000000;
+    text-decoration: none;
+}
+
+  a:visited {
+    color: #000000;
+    text-decoration: none;
+}
+
+a:hover {
+  color: #000000;
+  text-decoration: none;
+}
+
+a:active {
+  color: #000000;
+  text-decoration: none;
+}
+ 
+
+
